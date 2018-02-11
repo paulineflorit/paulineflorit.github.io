@@ -54,6 +54,7 @@ body{
   height: 100px;
   padding: 0px 50px;
   color: rgba(0,0,0,0.3);
+  text-align: center;
 }
 
 #mc_embed_signup_scroll {
@@ -187,7 +188,6 @@ body{
 .mc-field-group2 {
  margin-right: 61px;
 }
-
 .mc-field-group {
   margin-right: 40px;
 }
