@@ -192,6 +192,10 @@ body{
   margin-right: 40px;
 }
 
+#mc-embedded-subscribe {
+  align-items: center;
+}
+
 iframe {
   padding-bottom: 20px;
   padding-top: 20px;
